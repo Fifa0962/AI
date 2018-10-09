@@ -1,0 +1,1 @@
+print("Omai wa mou shindeiru!!")
